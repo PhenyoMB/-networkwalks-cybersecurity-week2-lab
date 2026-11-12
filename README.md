@@ -67,15 +67,6 @@ See the [complete Module 5 walkthrough](project-module-5/README.md) and the [Zen
     ├── Zenmap screenshots
     └── zenmap_network_scanning.pdf
 ```
-
-## Evidence and limitations
-
-The screenshots and PDF are supporting evidence of the documented exercises. Tool output should be interpreted in context: a discovery result does not automatically establish that a system is vulnerable, current, or fully enumerated. API-key requirements, source coverage, firewalls, and network configuration can affect results.
-
-Module 2 currently has no dedicated screenshots in the repository. Its existing notes duplicated camera-related URLs under the mathematics-PDF heading, so those URLs have not been represented as verified PDF findings. Direct camera endpoints have also been excluded from the public-facing documentation.
-
-Before sharing this repository, review all screenshots and the PDF for email addresses, credentials, tokens, personal information, private IP addresses, MAC addresses, device names, and other sensitive details. Redact information that should not be public.
-
 ## Responsible use
 
 These exercises are for education and authorised security work. Only investigate domains, systems, and networks for which permission has been granted. Publicly indexed information does not grant permission to access or test a resource.
